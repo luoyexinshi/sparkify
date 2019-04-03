@@ -7,7 +7,7 @@ The data provided has each user's log, which includes variables such as artist, 
 
 I constructed the customer churn as users who canceled the service, and I plotted the number of songs for users who canceled the service and users who stayed. And I noticed that users who canceled the service listen to significantly less songs than users who stayed. Then I also plotted the number of song for users who downgraded and the users who did not downgrade, because downgrading is correlated with the possibility of canceling the service. And similar pattern also exists, that users who downgraded listened to significantly less song than users who did not downgrade. Hence, it's important for Sparkify to to attract users to use their service more to avoid customer churn.
 
-More detailed explanation can be found here.
+More detailed explanation can be found here <link href="https://medium.com/@luoyexinshi/sparkify-capstone-project-6572e5ed2a2b" rel="next" rev="prev">
 
 ## Packages:
 PySpark, Pandas, Matplotlot.pylpot
