@@ -21,3 +21,11 @@ Logistic Regression, Gradient Boosted Trees, Support Vector Machine
   3. Feature Engineering
   4. Model Building
   5. Model Evaluation
+  
+## Discussion of Final Result
+# Final model: Gradient Boosted Tree with MaxIter = 10, and MaxDepth = 5
+The accuracy score is 0.9843513377082281
+
+From the importance score, we see the most important variable in predicting customer churn is period, which is how long the user has been a customer for Sparkify, followed by the number of thumbs down and the number of thumbs up.
+
+My analysis suggests that Sparkify should pay attention to existing users and try to attract them to use the service more. They should focus on improving user experience, for example, allowing more freedom to skip songs, adding more interesting artists, more genres etc. would be helpful in improving current users' experience.
